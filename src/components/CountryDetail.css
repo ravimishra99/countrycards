@@ -1,0 +1,63 @@
+.country-details {
+    margin-top: 150px;
+    height: 300px;
+    width: 100vw;
+   
+    padding: 20px;
+    margin-left: 200px;
+  }
+  .back-btn {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #697094;
+    color: black;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    size:50%;
+    border-radius: 5px;
+    margin-left:30px ;
+}
+.content{
+    display: flex;
+   
+    width: 1100px;
+    height: 300px;
+    gap:50px;
+}
+
+  
+  .flag-img {
+    width: 80%;
+   
+    height:80%;
+  }
+  
+  .info-section {
+    display: flex;
+    flex-direction: column; 
+   
+    padding-top: 10px;
+    
+  }
+  .info-section-upper{
+    display: flex;
+    
+    gap: 100px;
+    flex-direction: row;
+    
+  }
+  .info-section-right{
+    padding-top:60px ;
+    
+    
+  }
+
+  
+  .info-section h1 {
+    margin-top: 0;
+  }
+  
